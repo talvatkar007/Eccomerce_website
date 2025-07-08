@@ -26,6 +26,3 @@ HOW TO USE
 docker pull monish247/ecommerce_python_image:latest   
 
 docker run -itd -p 8034:80 monish247/ecommerce_python_image:latest
-
-# Eccomerce_website
-# Eccomerce_website
